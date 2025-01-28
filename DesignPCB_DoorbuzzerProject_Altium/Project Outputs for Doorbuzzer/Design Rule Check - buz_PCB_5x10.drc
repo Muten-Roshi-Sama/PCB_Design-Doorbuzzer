@@ -1,0 +1,45 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\vassi\OneDrive\Bureau\Cours\BA3\PCB_design\PCB\Altiummmm\Doorbuzzer\buz_PCB_5x10.PcbDoc
+Date     : 12/22/2023
+Time     : 2:59:57 PM
+
+Processing Rule : Clearance Constraint (Gap=5mil) ((isTrack)),((isTrack))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) ((IsTrack)),((IsPad AND( HasFootprint('DIP*'))))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) ((isTrack)),((isPad))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) ((IsPad)),((IsPad))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=20mil) (Max=1000mil) (Preferred=24mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=40mil) (Max=1000mil) (Preferred=40mil) (InNet('VCC'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=40mil) (Max=1000mil) (Preferred=40mil) (InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=30mil) (Max=40mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

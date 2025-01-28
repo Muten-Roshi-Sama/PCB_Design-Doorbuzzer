@@ -1,0 +1,35 @@
+Circuit: * C:\Users\vassi\OneDrive\Bureau\Cours\BA3\PCB_design\PCB\LTSPICE_Simulations\Full_circuit.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Node U1:N011 is floating.
+WARNING: Node VR77 is floating.
+WARNING: Node NC_05 is floating.
+
+WARNING: Less than two connections to node nc_02.  This node is used by r6.
+WARNING: Less than two connections to node nc_03.  This node is used by q1.
+WARNING: Less than two connections to node nc_04.  This node is used by q1.
+WARNING: Less than two connections to node vr77.  This node is used by r7.
+WARNING: Less than two connections to node nc_05.  This node is used by r9.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Apr 23 20:07:38 2024
+Total elapsed time: 6.609 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 174797
+traniter = 174766
+tranpoints = 50533
+accept = 37028
+rejected = 13505
+matrix size = 32
+fillins = 5
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 1.99 KB object code size  2.2/1.7/[0.9]
+Matrix Compiler2: 2.60 KB object code size  1.1/1.6/[0.6]
+
